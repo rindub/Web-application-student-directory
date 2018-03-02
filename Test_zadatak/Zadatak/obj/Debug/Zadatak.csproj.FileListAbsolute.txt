@@ -1,0 +1,114 @@
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\ApplicationInsights.config
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\roslyn\csc.exe
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\roslyn\vbc.exe
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\roslyn\VBCSCompiler.exe
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\Zadatak.dll.config
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\Zadatak.dll
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\Zadatak.pdb
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\Antlr3.Runtime.dll
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\EntityFramework.dll
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\EntityFramework.SqlServer.dll
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\Microsoft.AI.Web.dll
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\Microsoft.ApplicationInsights.dll
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\Newtonsoft.Json.dll
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\System.Web.Helpers.dll
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\System.Web.Mvc.dll
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\System.Web.Optimization.dll
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\System.Web.Razor.dll
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\System.Web.WebPages.Deployment.dll
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\System.Web.WebPages.dll
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\System.Web.WebPages.Razor.dll
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\WebGrease.dll
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\EntityFramework.xml
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\EntityFramework.SqlServer.xml
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\Microsoft.AI.Web.xml
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\Microsoft.ApplicationInsights.xml
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\System.Web.Helpers.xml
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\System.Web.Mvc.xml
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\System.Web.Optimization.xml
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\System.Web.Razor.xml
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\System.Web.WebPages.xml
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\System.Web.WebPages.Deployment.xml
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\System.Web.WebPages.Razor.xml
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\Antlr3.Runtime.pdb
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\bin\Newtonsoft.Json.xml
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\obj\Debug\Zadatak.dll
+C:\Users\RinoDuboković\Desktop\Test_zadatak\Test_zadatak\Zadatak\obj\Debug\Zadatak.pdb
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\ApplicationInsights.config
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\roslyn\csc.exe
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\roslyn\vbc.exe
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\roslyn\VBCSCompiler.exe
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\Zadatak.dll.config
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\Zadatak.dll
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\Zadatak.pdb
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\Antlr3.Runtime.dll
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\EntityFramework.dll
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\EntityFramework.SqlServer.dll
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\Microsoft.AI.Web.dll
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\Microsoft.ApplicationInsights.dll
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\Newtonsoft.Json.dll
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\System.Web.Helpers.dll
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\System.Web.Mvc.dll
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\System.Web.Optimization.dll
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\System.Web.Razor.dll
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\System.Web.WebPages.Deployment.dll
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\System.Web.WebPages.dll
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\System.Web.WebPages.Razor.dll
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\WebGrease.dll
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\EntityFramework.xml
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\EntityFramework.SqlServer.xml
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\Microsoft.AI.Web.xml
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\Microsoft.ApplicationInsights.xml
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\System.Web.Helpers.xml
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\System.Web.Mvc.xml
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\System.Web.Optimization.xml
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\System.Web.Razor.xml
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\System.Web.WebPages.xml
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\System.Web.WebPages.Deployment.xml
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\System.Web.WebPages.Razor.xml
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\Antlr3.Runtime.pdb
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\bin\Newtonsoft.Json.xml
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\obj\Debug\Zadatak.csprojResolveAssemblyReference.cache
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\obj\Debug\Zadatak.dll
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\obj\Debug\Zadatak.pdb
+C:\Users\RinoDuboković\Downloads\Test_zadatak (1)\Test_zadatak\Zadatak\obj\Debug\Zadatak.csproj.CoreCompileInputs.cache

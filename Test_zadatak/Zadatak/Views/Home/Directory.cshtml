@@ -1,0 +1,82 @@
+﻿@model IEnumerable<Zadatak.Models.Student>
+
+@{
+    ViewBag.Title = "Directory";
+}
+
+<h2>Directory</h2>
+
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.FirstName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.LastName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.DateOfBirth)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Address)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.ParentName)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.ActionLink(Html.DisplayFor(modelItem => item.FirstName).ToString(), "Edit", "Student", new { id = item.StudentID }, new { @class = "col-md-2 control-label" })
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.LastName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DateOfBirth)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Address)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ParentName)
+            </td>
+            
+            <td>
+                <table>
+                    <tr>
+                        <th>Course</th>
+                        <th>Grade</th>
+                        <th>Edit grade</th>
+                    </tr>
+                    @foreach (var i in item.Grades)
+                {
+                        <tr>
+                            <td>
+                                @Html.ActionLink(Html.DisplayFor(modelItem => i.Course.Name).ToString(), "Details", "Course", new { id = i.CourseID }, new { @class = "col-md-2 control-label" })
+
+                            </td>
+                            <td>
+
+                                @Html.DisplayFor(modelItem => i.GradeForStudent)
+
+                            </td>
+                            <td>
+
+                                @Html.ActionLink("Edit", "Edit", "Grade", new { id = i.GradeID }, new { @class = "col-md-2 control-label" })
+
+                            </td>
+                        </tr>
+                    }
+
+                </table>
+            </td>
+
+        </tr>
+    }
+
+</table>
